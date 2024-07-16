@@ -1,0 +1,135 @@
+.cursor-pointer{
+    cursor: pointer;
+}
+.primary_text{
+    color: #D6482c;
+
+}
+.primary_bg {
+    background-color: #D6482c;
+
+}
+
+.card-image {
+    max-width: 100%;
+    height: 200px;
+    /* Set the desired fixed height for the card image */
+    object-fit: cover;
+    /* Ensure the image covers the entire height while maintaining aspect ratio */
+}
+.card-image2 {
+    max-width: 250px;
+        height: 250px;
+    /* Set the desired fixed height for the card image */
+    object-fit: cover;
+
+   padding-top: 5px;
+    border-color: #D6482c;
+    /* Ensure the image covers the entire height while maintaining aspect ratio */
+}
+.card-imageborder {
+    max-width: 260px;
+    height: 260px;
+    /* Set the desired fixed height for the card image */
+    object-fit: cover;
+    margin-top: 30px;
+    margin-left: 150px;
+    border-width: 100px;
+    border-color: #D6482c;
+    /* Ensure the image covers the entire height while maintaining aspect ratio */
+}
+.card-imageborder1 {
+    max-width: 260px;
+    height: 260px;
+    /* Set the desired fixed height for the card image */
+    object-fit: cover;
+    margin-top: 30px;
+    margin-right: 150px;
+    border-width: 100px;
+    border-color: #D6482c;
+    /* Ensure the image covers the entire height while maintaining aspect ratio */
+}
+
+
+.card-image-viewing {
+    width: 50vh;
+    max-width: 100%;
+    height: 200px;
+object-fit: cover;
+}
+.text_style_1{
+    margin-top: 30px;
+}
+.card-image-profile {
+    width: 50vh;
+    max-width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 300px;
+    border-width: 1px;
+}
+.row_design{
+    flex: 1;
+    flex-direction: row;
+    display: block;
+}
+ .timer_design {
+      font-size: 40px;
+      font-weight: bold;
+      text-align: center;
+   
+}
+.title_item{
+        letter-spacing: 5px;
+}
+.display-block{
+    display: block;
+}
+.btn_pos{
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  
+}
+.text-sizing_{
+    font-size: 15px;
+}
+.text-sizing{
+    font-size: 25px;
+}
+.text-sizingStats {
+    font-size:25px;
+}
+.btn_set{
+    align-self: center;
+    justify-content: center;
+}
+.login_style{
+
+justify-content: end;
+align-items: center;
+margin-top: 200px;
+
+}
+.design-inside{
+    padding: 50px;
+}
+.round_design{
+    max-width:300px;
+    height: 300px;
+    object-fit: cover;
+
+}
+.express_style{
+   text-align: center;
+  margin-top:130px;
+  font-size: larger;
+}
+.express_style1 {
+    text-align: center;
+    margin-bottom: 130px;
+    font-size: larger;
+}
+.x p{
+ width: 100%;
+}
